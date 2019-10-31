@@ -134,7 +134,7 @@ Camp Counselor, Planet Bravo Computer Camp
 - Assisted middle-school kids and instructors during classes, mentoring, setting-up work-stations, support
 
 
-##Extracurricular Activities
+## Extracurricular Activities
 
 `2016 - Present`
 Member, New Roads School Golf and Tennis Teams
@@ -144,7 +144,7 @@ Member, New Roads School Golf and Tennis Teams
 `2013 - 2016`
 Member, Los Angeles Physics Teachers Alliance Group UCLA High School Plasma Lab
 
-- Invited by elementary school teacher to participate in high school lab; in final year assisted professors conducting 	
+- Invited by Science Department chair to participate in high school lab; in final year assisted professors conducting 	
 plasma physics experiments, designing models, setting-up experiments
 
 
