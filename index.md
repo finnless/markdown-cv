@@ -14,7 +14,7 @@ title: Nolan Windham's CV
 ## Education
 
 `2016 - Present`
-__New Roads School, Santa Monica, CA__
+New Roads School, Santa Monica, CA
 
 - GPA: 4.03, June 2019
 - ACT: 35, Writing: 11
