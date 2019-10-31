@@ -5,9 +5,8 @@ title: Nolan Windham's CV
 # Nolan Windham
 
 <div id="webaddress">
-Venice, CA 90291
+1304 Cabrillo Ave, Venice, CA
 | <a href="nolan@nolanwindham.com">nolan@nolanwindham.com</a>
-| <a href="https://linkedin.com/in/nolanwindham">linkedin.com/in/nolanwindham</a>
 | (310) 266-1099
 </div>
 
@@ -15,7 +14,7 @@ Venice, CA 90291
 ## Education
 
 `2016 - Present`
-__New Roads School, Santa Monica, CA.__
+__New Roads School, Santa Monica, CA__
 
 - GPA: 4.03, June 2019
 - ACT: 35, Writing: 11
@@ -35,7 +34,8 @@ Octofinalist Trophy, National Parliamentary Debate League Tournament of Champion
 
 
 ## Debate Achievements
-Ranked 8th in the US, National Parliamentary Debate Association, September 2019
+`September 2019`
+Ranked 8th in the US, National Parliamentary Debate Association
 
 `2019 – Present`
 Semi-Finalist, California State University Long Beach Debate Tournament
@@ -75,7 +75,7 @@ Member, New Roads School Debate Team
 
 - Instrumental in school’s leap to 4th place National Ranking (NPDL); coach junior members, carry out administrative duties, manage web-based research-sharing system that I created
 
-`2018-Present`
+`2018 - Present`
 Member, New Roads School FIRST Robotics Team
 
 - Organize meetings, scout members, assign tasks, assure efficiency, coordinate/develop software, build/repair robot, facilitate communication with other teams, outreach to allies. Coordination of these efforts led to award as Regional Semifinalist and National Alternate UNLV Tournament
@@ -98,7 +98,7 @@ Volunteer Contributor, Internet Archive Open Library
 
 - Assist staff remotely with digitizing books for Open Library lending system
 
-`2016-Present`
+`2016 - Present`
 Volunteer, Venice Stakeholders Association
 
 - Planted potted trees on city-block-size Post Office, ongoing care and maintenance
