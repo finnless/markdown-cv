@@ -6,7 +6,7 @@ title: Nolan Windham's CV
 
 <div id="webaddress">
 1304 Cabrillo Ave, Venice, CA
-| <a href="nolan@nolanwindham.com">nolan@nolanwindham.com</a>
+| <a href="mailto:nolan@nolanwindham.com">nolan@nolanwindham.com</a>
 | (310) 266-1099
 </div>
 
@@ -162,11 +162,11 @@ Microsoft Lifestyle Gallery Photo Model
 
 ## Reference
 
-- Eric Cleveland, Science Department Chair, New Roads School, <a href="ecleveland@newroads.org">ecleveland@newroads.org</a>
-- Kathy Hartley, History Department, New Roads School, <a href="mhartley@newroads.org">mhartley@newroads.org</a>
-- Meeyun Kwahk, Mathematics Department, New Roads School, <a href="mkwahk@newroads.org">mkwahk@newroads.org</a>
-- Akunna Uka, Debate Teacher, New Roads School, <a href="auka@newroads.org">auka@newroads.org</a>
-- Cathryn Williams, Neighbor, <a href="cathryn@bridgecomm.com">cathryn@bridgecomm.com</a>
+- Eric Cleveland, Science Department Chair, New Roads School, <a href="mailto:ecleveland@newroads.org">ecleveland@newroads.org</a>
+- Kathy Hartley, History Department, New Roads School, <a href="mailto:mhartley@newroads.org">mhartley@newroads.org</a>
+- Meeyun Kwahk, Mathematics Department, New Roads School, <a href="mailto:mkwahk@newroads.org">mkwahk@newroads.org</a>
+- Akunna Uka, Debate Teacher, New Roads School, <a href="mailto:auka@newroads.org">auka@newroads.org</a>
+- Cathryn Williams, Neighbor, <a href="mailto:cathryn@bridgecomm.com">cathryn@bridgecomm.com</a>
 - Additional references furnished upon request
 
 <!-- ### Footer
