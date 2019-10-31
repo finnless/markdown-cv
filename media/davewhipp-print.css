@@ -89,7 +89,7 @@ ul {
 	position: relative;
 	left: 25%;
 	width: 75%;
-	margin-bottom: 1em;
+	margin-bottom: .8em;
 	/*margin-top: -0.5em;*/
 }
 
@@ -141,7 +141,6 @@ h2 {
 	top: 1.2em;
 	text-align: right;
 	width: 20%;
-	font-weight: bold;
 }
 
 
