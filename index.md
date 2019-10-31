@@ -5,7 +5,7 @@ title: Nolan Windham's CV
 # Nolan Windham
 
 <div id="webaddress">
-1304 Cabrillo Ave, Venice, CA 90291
+Venice, CA 90291
 | <a href="nolan@nolanwindham.com">nolan@nolanwindham.com</a>
 | <a href="https://linkedin.com/in/nolanwindham">linkedin.com/in/nolanwindham</a>
 | (310) 266-1099
