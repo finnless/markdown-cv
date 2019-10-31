@@ -35,7 +35,7 @@ Octofinalist Trophy, National Parliamentary Debate League Tournament of Champion
 
 ## Debate Achievements
 `September 2019`
-- __Ranked 8th in the US__, National Parliamentary Debate Association
+- __Ranked 8th in the US__, National Parliamentary Debate Leauge
 
 `2019 – Present`
 - Semi-Finalist, California State University Long Beach Debate Tournament
