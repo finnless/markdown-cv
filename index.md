@@ -29,20 +29,19 @@ Intellectual Curiosity Achievement Award, New Roads School
 Degree of Distinction, National Speech and Debate Association
 
 `2019`
-Octofinalist Trophy, National Parliamentary Debate League Tournament of Champions (NPDL), 15th place
+Octofinalist Trophy, National Parliamentary Debate League Tournament of Champions (NPDL), 15th place (Top 50 US Teams)
 
 
 
 ## Debate Achievements
 `September 2019`
-- Ranked 8th in the US, National Parliamentary Debate Association
+- __Ranked 8th in the US__, National Parliamentary Debate Association
 
 `2019 – Present`
 - Semi-Finalist, California State University Long Beach Debate Tournament
 
 `2018 – 2019`
 - First-Place Champion, Peninsula High School Invitational
-- Octofinalist, National Tournament of Champions Top 50 teams
 - Octofinalist, California State University Long Beach Debate Tournament
 - Double Octofinalist, National Parliamentary Debate Invitational, U.C. Berkeley
 - Quarter Finalist, New Roads School Pop-Up Invitational
@@ -144,7 +143,7 @@ Member, New Roads School Golf and Tennis Teams
 `2013 - 2016`
 Member, Los Angeles Physics Teachers Alliance Group UCLA High School Plasma Lab
 
-- Invited by Science Department chair to participate in high school lab; in final year assisted professors conducting 	
+- Invited by Science Department chair to participate in high school lab; in final year assisted teachers conducting 	
 plasma physics experiments, designing models, setting-up experiments
 
 
