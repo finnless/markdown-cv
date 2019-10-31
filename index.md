@@ -35,31 +35,31 @@ Octofinalist Trophy, National Parliamentary Debate League Tournament of Champion
 
 ## Debate Achievements
 `September 2019`
-Ranked 8th in the US, National Parliamentary Debate Association
+- Ranked 8th in the US, National Parliamentary Debate Association
 
 `2019 – Present`
-Semi-Finalist, California State University Long Beach Debate Tournament
+- Semi-Finalist, California State University Long Beach Debate Tournament
 
 `2018 – 2019`
-First-Place Champion, Peninsula High School Invitational
-Octofinalist, National Tournament of Champions Top 50 teams
-Octofinalist, California State University Long Beach Debate Tournament
-Double Octofinalist, National Parliamentary Debate Invitational, U.C. Berkeley
-Quarter Finalist, New Roads School Pop-Up Invitational
-Champion, Peninsula High School Invitational
+- First-Place Champion, Peninsula High School Invitational
+- Octofinalist, National Tournament of Champions Top 50 teams
+- Octofinalist, California State University Long Beach Debate Tournament
+- Double Octofinalist, National Parliamentary Debate Invitational, U.C. Berkeley
+- Quarter Finalist, New Roads School Pop-Up Invitational
+- Champion, Peninsula High School Invitational
 
 `2017 – 2018`
-First Place, Western Bay Forensic League Policy Debate
-First Place, Monroe High School Invitational
-Semi-Finalist, Peninsula High School Invitational
-Quarter-Finalist, California State Championship Tournament, Long Beach
-National Tournament of Champions, Top 50 US Teams, 22nd Place
+- First Place, Western Bay Forensic League Policy Debate
+- First Place, Monroe High School Invitational
+- Semi-Finalist, Peninsula High School Invitational
+- Quarter-Finalist, California State Championship Tournament, Long Beach
+- National Tournament of Champions, Top 50 US Teams, 22nd Place
 
 `2016 – 2017`
-First Place, Western Bay Forensic League Winter Tournament 
-First Place, Western Bay Forensic League Spring Tournament
-League Champion, Western Bay Forensic League
-Quarter-Finalist, California State University Long Beach Tournament, Long Beach
+- First Place, Western Bay Forensic League Winter Tournament 
+- First Place, Western Bay Forensic League Spring Tournament
+- League Champion, Western Bay Forensic League
+- Quarter-Finalist, California State University Long Beach Tournament, Long Beach
 
 
 
