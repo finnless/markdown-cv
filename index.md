@@ -51,14 +51,13 @@ Octofinalist Trophy, National Parliamentary Debate League Tournament of Champion
 - First Place, Western Bay Forensic League Policy Debate
 - First Place, Monroe High School Invitational
 - Semi-Finalist, Peninsula High School Invitational
-- Quarter-Finalist, California State Championship Tournament, Long Beach
+- Quarter-Finalist, California State University Long Beach Tournament, Long Beach
 - National Tournament of Champions, Top 50 US Teams, 22nd Place
 
 `2016 – 2017`
 - First Place, Western Bay Forensic League Winter Tournament 
 - First Place, Western Bay Forensic League Spring Tournament
 - League Champion, Western Bay Forensic League
-- Quarter-Finalist, California State University Long Beach Tournament, Long Beach
 
 
 
@@ -100,7 +99,7 @@ Volunteer Contributor, Internet Archive Open Library
 `2016 - Present`
 Volunteer, Venice Stakeholders Association
 
-- Planted potted trees on city-block-size Post Office, ongoing care and maintenance
+- Planted potted trees at city-block-size Post Office, ongoing care and maintenance
 
 `July 2019`
 Teacher, New Roads Summer Debate Camp
