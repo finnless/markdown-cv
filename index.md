@@ -74,7 +74,7 @@ Member, New Roads School Debate Team
 - Instrumental in school’s leap to 4th place National Ranking (NPDL); coach junior members, carry out administrative duties, manage web-based research-sharing system that I created
 
 `2018 - Present`
-Member, New Roads School FIRST Robotics Team
+Co-Captain, New Roads School FIRST Robotics Team
 
 - Organize meetings, scout members, assign tasks, assure efficiency, coordinate/develop software, build/repair robot, facilitate communication with other teams, outreach to allies. Coordination of these efforts led to award as Regional Semifinalist and National Alternate UNLV Tournament
 
