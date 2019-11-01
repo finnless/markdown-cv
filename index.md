@@ -51,7 +51,7 @@ Octofinalist Trophy, National Parliamentary Debate League Tournament of Champion
 - First Place, Western Bay Forensic League Policy Debate
 - First Place, Monroe High School Invitational
 - Semi-Finalist, Peninsula High School Invitational
-- Quarter-Finalist, California State University Long Beach Tournament, Long Beach
+- Quarter-Finalist, California State University Long Beach Tournament
 - National Tournament of Champions, Top 50 US Teams, 22nd Place
 
 `2016 – 2017`
