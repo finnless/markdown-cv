@@ -26,7 +26,7 @@ New Roads School, Santa Monica, CA
 Intellectual Curiosity Achievement Award, New Roads School
 
 `2019`
-Degree of Distinction, National Speech and Debate Association
+Degree of Special Distinction, National Speech and Debate Association
 
 `2019`
 Octofinalist Trophy, National Parliamentary Debate League Tournament of Champions (NPDL), 15th place (Top 50 US Teams)
