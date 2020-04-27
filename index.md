@@ -18,6 +18,7 @@ New Roads School, Santa Monica, CA
 
 - GPA: 4.03, June 2019
 - ACT: 35, Writing: 11
+- Matriculant to __Claremont McKenna College__ as a __McKenna Scholar__
 
 
 ## Awards & Honors
@@ -76,7 +77,7 @@ Member, New Roads School Debate Team
 `2018 - Present`
 Co-Captain, New Roads School FIRST Robotics Team
 
-- Organize meetings, scout members, assign tasks, assure efficiency, coordinate/develop software, build/repair robot, facilitate communication with other teams, outreach to allies. Coordination of these efforts led to award as Regional Semifinalist and National Alternate UNLV Tournament
+- Organize meetings, scout members, assign tasks, assure efficiency, coordinate/develop software, build/repair robot, facilitate communication with other teams, outreach to allies. Coordination of these efforts led to award as Regional Semifinalist 2019 and 2020, and National Alternate UNLV Tournament 2019
 
 `2017 - Present`
 Representative, National Parliamentary Debate League
@@ -90,6 +91,11 @@ Organizer, School Field Trip to Elon Musk's The Boring Company School Trip
 
 
 ## Community Service
+
+`April 2017`
+Volunteer, AudFest Social Justice Film Festival
+
+- Assisted with site set-up and crowd flow, answered questions, transported materials
 
 `2019 - Present`
 Volunteer Contributor, Internet Archive Open Library
@@ -120,11 +126,6 @@ Registrar, Pre-Register Students to Vote
 Volunteer, Christmas Food Chinatown, Southern California Chinese Lawyers Association
 
 - Helped deliver food and gifts to 200+ Chinatown community members on Christmas
-
-`April 2017`
-Volunteer, AudFest Social Justice Film Festival
-
-- Assisted with site set-up and crowd flow, answered questions, transported materials
 
 `June 2016`
 Camp Counselor, Planet Bravo Computer Camp
@@ -160,6 +161,7 @@ Microsoft Lifestyle Gallery Photo Model
 
 ## Reference
 
+- Jeanne Windham, Former Representative of District 12, Montana, <a href="mailto:djwindham@hotmail.com">djwindham@hotmail.com</a>
 - Eric Cleveland, Science Department Chair, New Roads School, <a href="mailto:ecleveland@newroads.org">ecleveland@newroads.org</a>
 - Kathy Hartley, History Department, New Roads School, <a href="mailto:mhartley@newroads.org">mhartley@newroads.org</a>
 - Meeyun Kwahk, Mathematics Department, New Roads School, <a href="mailto:mkwahk@newroads.org">mkwahk@newroads.org</a>
