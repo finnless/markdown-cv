@@ -16,9 +16,10 @@ title: Nolan Windham's CV
 `2016 - Present`
 New Roads School, Santa Monica, CA
 
-- GPA: 4.03, June 2019
-- ACT: 35, Writing: 11
+- GPA: 4.03, December 2019
+- ACT: 35/36, Writing: 11/12
 - Matriculant to __Claremont McKenna College__ as a __McKenna Scholar__
+- Intended major: Philosophy, Politics & Economics (PPE) 
 
 
 ## Awards & Honors
@@ -77,7 +78,7 @@ Member, New Roads School Debate Team
 `2018 - Present`
 Co-Captain, New Roads School FIRST Robotics Team
 
-- Organize meetings, scout members, assign tasks, assure efficiency, coordinate/develop software, build/repair robot, facilitate communication with other teams, outreach to allies. Coordination of these efforts led to award as Regional Semifinalist 2019 and 2020, and National Alternate UNLV Tournament 2019
+- Organize meetings, scout members, assign tasks, assure efficiency, coordinate/develop software, build/repair robot, facilitate communication with other teams, outreach to allies. Coordination of these efforts led to award as Regional Semifinalist 2019 and 2020
 
 `2017 - Present`
 Representative, National Parliamentary Debate League
@@ -87,7 +88,7 @@ Representative, National Parliamentary Debate League
 `2018`
 Organizer, School Field Trip to Elon Musk's The Boring Company School Trip
 
-- Liaised between corporate organizers and school officials, coordinated and curated trip for 30 kids
+- Liaised between corporate organizers and school officials, coordinated trip for 30 kids
 
 
 ## Community Service
@@ -134,6 +135,12 @@ Camp Counselor, Planet Bravo Computer Camp
 
 
 ## Extracurricular Activities
+
+`2018 - Present`
+Independent Research, Bio-Imagery
+
+- Researched, designed, and built custom workstation, software, and
+workflow for Bio-imagery class, enabling 3D photogrammetry, Instructed students
 
 `2016 - Present`
 Member, New Roads School Golf and Tennis Teams
