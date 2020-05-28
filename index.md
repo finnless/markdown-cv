@@ -27,6 +27,9 @@ New Roads School, Santa Monica, CA
 `2019`
 Intellectual Curiosity Achievement Award, New Roads School
 
+`2020`
+Senior Robotics Award, New Roads School
+
 `2019`
 Degree of Special Distinction, National Speech and Debate Association
 
