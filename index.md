@@ -5,7 +5,7 @@ title: Nolan Windham's CV
 # Nolan Windham
 
 <div id="webaddress">
-1304 Cabrillo Ave, Venice, CA
+2605 Valley View Dr, Missoula, MT
 | <a href="mailto:nolan@nolanwindham.com">nolan@nolanwindham.com</a>
 | (310) 266-1099
 </div>
@@ -42,7 +42,7 @@ Octofinalist Trophy, National Parliamentary Debate League Tournament of Champion
 `September 2019`
 - __Ranked 8th in the US__, National Parliamentary Debate Leauge
 
-`2019 – Present`
+`2019 – 2020`
 - Semi-Finalist, California State University Long Beach Debate Tournament
 
 `2018 – 2019`
@@ -50,7 +50,6 @@ Octofinalist Trophy, National Parliamentary Debate League Tournament of Champion
 - Octofinalist, California State University Long Beach Debate Tournament
 - Double Octofinalist, National Parliamentary Debate Invitational, U.C. Berkeley
 - Quarter Finalist, New Roads School Pop-Up Invitational
-- Champion, Peninsula High School Invitational
 
 `2017 – 2018`
 - First Place, Western Bay Forensic League Policy Debate
@@ -73,17 +72,17 @@ Leader, New Roads Students Climate Change Strike
 
 - Planned, spoke, and led coordinated action by student body in support of 9/20 global effort
 
-`2016 - Present`
+`2016 - 2020`
 Member, New Roads School Debate Team
 
 - Instrumental in school’s leap to 4th place National Ranking (NPDL); coach junior members, carry out administrative duties, manage web-based research-sharing system that I created
 
-`2018 - Present`
+`2018 - 2020`
 Co-Captain, New Roads School FIRST Robotics Team
 
 - Organize meetings, scout members, assign tasks, assure efficiency, coordinate/develop software, build/repair robot, facilitate communication with other teams, outreach to allies. Coordination of these efforts led to award as Regional Semifinalist 2019 and 2020
 
-`2017 - Present`
+`2017 - 2020`
 Representative, National Parliamentary Debate League
 
 - Introduce legislation, create policies, discuss issues, ensure diversity, inclusion, accessibility and fairness
@@ -106,7 +105,7 @@ Volunteer Contributor, Internet Archive Open Library
 
 - Assist staff remotely with digitizing books for Open Library lending system
 
-`2016 - Present`
+`2016 - 2020`
 Volunteer, Venice Stakeholders Association
 
 - Planted potted trees at city-block-size Post Office, ongoing care and maintenance
@@ -145,7 +144,7 @@ Independent Research, Bio-Imagery
 - Researched, designed, and built custom workstation, software, and
 workflow for Bio-imagery class, enabling 3D photogrammetry, Instructed students
 
-`2016 - Present`
+`2016 - 2020`
 Member, New Roads School Golf and Tennis Teams
 
 - Participated in seven tennis matches and five golf tournaments
@@ -159,7 +158,7 @@ plasma physics experiments, designing models, setting-up experiments
 
 ## Employment
 
-`2018 - Present`
+`2018 - 2020`
 Neighborhood Garden Maintenance, Venice
 
 `2017`
@@ -181,4 +180,4 @@ Microsoft Lifestyle Gallery Photo Model
 
 <!-- ### Footer
 
-Last updated: Oct. 30, 2019 -->
+Last updated: Aug. 10, 2020 -->
