@@ -13,7 +13,7 @@ title: Nolan Windham's CV
 
 ## Education
 
-`2016 - Present`
+`2016 - 2020`
 New Roads School, Santa Monica, CA
 
 - GPA: 4.03, December 2019
@@ -161,7 +161,7 @@ plasma physics experiments, designing models, setting-up experiments
 `2018 - 2020`
 Neighborhood Garden Maintenance, Venice
 
-`2017`
+`2017 - Present`
 Independent Computer services
 
 `2016`
