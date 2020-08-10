@@ -96,7 +96,7 @@ Organizer, School Field Trip to Elon Musk's The Boring Company School Trip
 ## Community Service
 
 `April 2017`
-Volunteer, AudFest Social Justice Film Festival
+Volunteer, Montana AudFest Social Justice Film Festival
 
 - Assisted with site set-up and crowd flow, answered questions, transported materials
 
