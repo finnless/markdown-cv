@@ -158,6 +158,9 @@ plasma physics experiments, designing models, setting-up experiments
 
 ## Employment
 
+`Sep 2020 - Present`
+Field Organizing Fellow, Montana 
+
 `2018 - 2020`
 Neighborhood Garden Maintenance, Venice
 
@@ -180,4 +183,4 @@ Microsoft Lifestyle Gallery Photo Model
 
 <!-- ### Footer
 
-Last updated: Aug. 10, 2020 -->
+Last updated: Oct. 1, 2020 -->
