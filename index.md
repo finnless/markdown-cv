@@ -158,14 +158,14 @@ plasma physics experiments, designing models, setting-up experiments
 
 ## Employment
 
+`Oct 2020 - Present`
+Data Assistant, Montana Democratic Party Coordinated Campaign
+
 `Sep 2020 - Present`
-Field Organizing Fellow, Montana 
+Field Organizing Fellow, Montana Democratic Party Coordinated Campaign
 
 `2018 - 2020`
 Neighborhood Garden Maintenance, Venice
-
-`2017 - Present`
-Independent Computer services
 
 `2016`
 Microsoft Lifestyle Gallery Photo Model
@@ -183,4 +183,4 @@ Microsoft Lifestyle Gallery Photo Model
 
 <!-- ### Footer
 
-Last updated: Oct. 1, 2020 -->
+Last updated: Oct. 6, 2020 -->
