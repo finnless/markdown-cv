@@ -5,7 +5,7 @@ title: Nolan Windham's CV
 # Nolan Windham
 
 <div id="webaddress">
-2605 Valley View Dr, Missoula, MT
+1304 Cabrillo Ave, Venice, CA
 | <a href="mailto:nolan@nolanwindham.com">nolan@nolanwindham.com</a>
 | (310) 266-1099
 </div>
@@ -158,10 +158,10 @@ plasma physics experiments, designing models, setting-up experiments
 
 ## Employment
 
-`Oct 2020 - Present`
+`Oct 2020 - Nov 2020`
 Data Assistant, Montana Democratic Party Coordinated Campaign
 
-`Sep 2020 - Present`
+`Sep 2020 - Nov 2020`
 Field Organizing Fellow, Montana Democratic Party Coordinated Campaign
 
 `2018 - 2020`
@@ -173,7 +173,7 @@ Microsoft Lifestyle Gallery Photo Model
 
 ## Reference
 
-- Jeanne Windham, Former Representative of District 12, Montana, <a href="mailto:djwindham@hotmail.com">djwindham@hotmail.com</a>
+- John Verghese, Data Director, Montana Democratic Party Coordinated Campaign, <a href="mailto:john@mtdems.org">john@mtdems.org</a>
 - Eric Cleveland, Science Department Chair, New Roads School, <a href="mailto:ecleveland@newroads.org">ecleveland@newroads.org</a>
 - Kathy Hartley, History Department, New Roads School, <a href="mailto:mhartley@newroads.org">mhartley@newroads.org</a>
 - Meeyun Kwahk, Mathematics Department, New Roads School, <a href="mailto:mkwahk@newroads.org">mkwahk@newroads.org</a>
@@ -183,4 +183,4 @@ Microsoft Lifestyle Gallery Photo Model
 
 <!-- ### Footer
 
-Last updated: Oct. 6, 2020 -->
+Last updated: Nov. 26, 2020 -->
